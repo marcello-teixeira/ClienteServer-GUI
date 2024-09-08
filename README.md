@@ -1,5 +1,5 @@
 ### Description
 
-A socket software developed in C# to connect two computers on a local network using *loopback* or by entering the IP address to exchange messages through an interface.
+A basic socket software developed in C# to connect a server with the client on a local network using *loopback* or by entering the IP address to exchange messages through an interface.
 
 
