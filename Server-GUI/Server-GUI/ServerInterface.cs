@@ -82,6 +82,7 @@ namespace Server_GUI
             }
         }
 
+   
         private void Server_Load(object sender, EventArgs e)
         {
         }
@@ -91,9 +92,20 @@ namespace Server_GUI
         //
         private void ButtonListen_Click(object sender, EventArgs e)
         {
-            sock = Socket();
-            sock.Bind(new IPEndPoint(0, 8080));
-            sock.Listen(10);
+            try
+            {
+                sock = Socket();
+                sock.Bind(new IPEndPoint(0, 8080));
+                sock.Listen(10);
+            }
+            catch
+            {
+                sock.Close();
+
+                sock = Socket();
+                sock.Bind(new IPEndPoint(0, 8080));
+                sock.Listen(10);
+            }
 
             // Show which IP server is running
             MessageBox.Show($"The server is running in {LocalIP}");
@@ -140,6 +152,7 @@ namespace Server_GUI
                                 }
                             }
                         });
+                        ClientThread.IsBackground = true;
                         ClientThread.Start();
                     }
                     catch
@@ -148,6 +161,7 @@ namespace Server_GUI
                     }
                 }
             });
+            ServerThread.IsBackground = true;
             ServerThread.Start();
         }
 

@@ -8,6 +8,7 @@ namespace Cliente_GUI
     {
 
         Socket sck;
+        Thread MainThread;
         bool ThreadRunning = true;
 
         //
@@ -33,9 +34,14 @@ namespace Cliente_GUI
         {
             ThreadRunning = false;
 
-            if (sck.Connected)
+            if (sck != null && sck.Connected)
             {
                 sck.Close();
+            }
+
+            if (MainThread != null && MainThread.IsAlive)
+            {
+                MainThread.Join();
             }
         }
 
@@ -66,14 +72,14 @@ namespace Cliente_GUI
             //
             // Thread to check exchange messages
             //
-            new Thread(delegate ()
+            MainThread = new Thread(() =>
             {
                 while (ThreadRunning)
                 {
                     try
                     {
                         byte[] receivedBuffer = new byte[sck.SendBufferSize];
-                        int bytesRec =  sck.Receive(receivedBuffer, 0, receivedBuffer.Length, 0);
+                        int bytesRec = sck.Receive(receivedBuffer, 0, receivedBuffer.Length, 0);
                         string receivedText = Encoding.ASCII.GetString(receivedBuffer, 0, bytesRec);
 
                         TextReceived.Invoke((MethodInvoker)delegate
@@ -85,7 +91,9 @@ namespace Cliente_GUI
                         break;
                     }
                 }
-            }).Start();
+            });
+            MainThread.IsBackground = true;
+            MainThread.Start();
             
         }
 
@@ -94,8 +102,11 @@ namespace Cliente_GUI
         //
         private void SendButton_Click(object sender, EventArgs e)
         {
-            byte[] data = Encoding.ASCII.GetBytes(InputData.Text);
-            sck.Send(data, 0, data.Length, 0);
+            if (sck != null && sck.Connected)
+            {
+                byte[] data = Encoding.ASCII.GetBytes(InputData.Text);
+                sck.Send(data, 0, data.Length, 0);
+            }
         }
     }
 }

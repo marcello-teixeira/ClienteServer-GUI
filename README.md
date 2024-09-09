@@ -4,12 +4,14 @@ A socket software developed in C# to connect a server with the client on a local
 
 ## How work
 
-1. Begin running Server-GUI
-2. Click on "Start Listen"
-3. Get the IP Address on the box message.
-4. Begin running Client-GUI.
-5. Enter IP address in input field.
-6. Click "Connect" and start chating.
+1. Clone the repository.
+2. Navigation to the directory.
+3. Begin running Server-GUI
+4. Click on "Start Listen"
+5. Get the IP Address on the box message.
+6. Begin running Client-GUI.
+7. Enter IP address in input field.
+8. Click "Connect" and start chating.
 
 ## Manual Installation 
 
