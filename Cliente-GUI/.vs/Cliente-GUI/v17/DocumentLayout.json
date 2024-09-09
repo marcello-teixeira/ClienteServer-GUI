@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\",
+  "WorkspaceRootPath": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|c:\\users\\marce\\source\\repos\\clienteserverwinforms\\cliente-gui\\cliente-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|solutionrelative:cliente-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|c:\\users\\marce\\desktop\\clienteserver-gui\\cliente-gui\\cliente-gui\\clientinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|solutionrelative:cliente-gui\\clientinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\cliente-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|solutionrelative:cliente-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|c:\\users\\marce\\desktop\\clienteserver-gui\\cliente-gui\\cliente-gui\\clientinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|solutionrelative:cliente-gui\\clientinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|c:\\users\\marce\\desktop\\clienteserver-gui\\cliente-gui\\cliente-gui\\clientinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781339EE-DA21-4EBA-8E6E-498B4A08247A}|Cliente-GUI\\Cliente-GUI.csproj|solutionrelative:cliente-gui\\clientinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Cliente-GUI\\Form1.cs",
-              "ToolTip": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Form1.cs",
-              "RelativeToolTip": "Cliente-GUI\\Form1.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCAAAAANAAAA",
+              "Title": "ClientInterface.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.cs",
+              "RelativeDocumentMoniker": "Cliente-GUI\\ClientInterface.cs",
+              "ToolTip": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.cs",
+              "RelativeToolTip": "Cliente-GUI\\ClientInterface.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwGEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T01:09:44.836Z",
               "IsPinned": true,
@@ -37,14 +41,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Cliente-GUI\\Form1.cs",
-              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cliente-GUI\\Cliente-GUI\\Form1.cs [Projeto]",
-              "RelativeToolTip": "..\\..\\Cliente-GUI\\Cliente-GUI\\Form1.cs [Projeto]",
+              "Title": "ClientInterface.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.cs",
+              "RelativeDocumentMoniker": "Cliente-GUI\\ClientInterface.cs",
+              "ToolTip": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.cs [Projeto]",
+              "RelativeToolTip": "Cliente-GUI\\ClientInterface.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:18:28.154Z",
-              "IsPinned": true
+              "WhenOpened": "2024-09-09T19:02:19.584Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientInterface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.Designer.cs",
+              "RelativeDocumentMoniker": "Cliente-GUI\\ClientInterface.Designer.cs",
+              "ToolTip": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\ClientInterface.Designer.cs",
+              "RelativeToolTip": "Cliente-GUI\\ClientInterface.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4v0AAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:57:48.731Z",
+              "EditorCaption": ""
             }
           ]
         }

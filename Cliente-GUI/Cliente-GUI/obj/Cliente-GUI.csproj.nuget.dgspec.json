@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj": {}
+    "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj": {
+    "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj",
         "projectName": "Cliente-GUI",
-        "projectPath": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj",
+        "projectPath": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\Cliente-GUI.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Cliente-GUI\\Cliente-GUI\\obj\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Cliente-GUI\\Cliente-GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",

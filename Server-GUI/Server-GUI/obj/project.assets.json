@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Server-GUI\\Server-GUI\\Server-GUI.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Server-GUI\\Server-GUI\\Server-GUI.csproj",
       "projectName": "Server-GUI",
-      "projectPath": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Server-GUI\\Server-GUI\\Server-GUI.csproj",
+      "projectPath": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Server-GUI\\Server-GUI\\Server-GUI.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\source\\repos\\ClienteServerWinForms\\Server-GUI\\Server-GUI\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Desktop\\ClienteServer-GUI\\Server-GUI\\Server-GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
