@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\bin\Release\net8.0-windows\Server-GUI.exe
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\bin\Release\net8.0-windows\Server-GUI.deps.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\bin\Release\net8.0-windows\Server-GUI.runtimeconfig.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\bin\Release\net8.0-windows\Server-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\bin\Release\net8.0-windows\Server-GUI.pdb
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server_GUI.Server.resources
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.csproj.GenerateResource.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.AssemblyInfo.cs
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.sourcelink.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\refint\Server-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.pdb
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\Server-GUI.genruntimeconfig.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Server-GUI\Server-GUI\obj\Release\net8.0-windows\ref\Server-GUI.dll

@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\bin\Release\net8.0-windows\Cliente-GUI.exe
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\bin\Release\net8.0-windows\Cliente-GUI.deps.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\bin\Release\net8.0-windows\Cliente-GUI.runtimeconfig.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\bin\Release\net8.0-windows\Cliente-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\bin\Release\net8.0-windows\Cliente-GUI.pdb
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente_GUI.Client.resources
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.csproj.GenerateResource.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.AssemblyInfo.cs
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.sourcelink.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\refint\Cliente-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.pdb
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\Cliente-GUI.genruntimeconfig.cache
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\obj\Release\net8.0-windows\ref\Cliente-GUI.dll

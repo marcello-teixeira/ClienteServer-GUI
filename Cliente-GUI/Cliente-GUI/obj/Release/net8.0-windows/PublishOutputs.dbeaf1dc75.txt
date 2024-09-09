@@ -1,0 +1,5 @@
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\out\Cliente-GUI.exe
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\out\Cliente-GUI.dll
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\out\Cliente-GUI.deps.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\out\Cliente-GUI.runtimeconfig.json
+C:\Users\marce\Desktop\ClienteServer-GUI\Cliente-GUI\Cliente-GUI\out\Cliente-GUI.pdb
